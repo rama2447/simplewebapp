@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Sample servlet class for login related methods
+ * Sample servlet class for login related methods testing
  */
 public class LoginServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request,
